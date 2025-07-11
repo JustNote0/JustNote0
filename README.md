@@ -55,6 +55,14 @@
 
 ###
 
+## 🛠️ Projects
+
+| Projects | Description |
+|----------|-------------|
+| [ Bike Sharing Analysis and Interactive Dashboard ](https://github.com/username/project-ml-pipeline) |  |
+| [ IMDb Sentiment Analysis Movie Review](https://github.com/username/project-cicd-ml) |  |
+| [Online Food Ordering System](https://github.com/username/project-skin-cancer) |  |
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
