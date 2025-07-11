@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a data enthusiast currently pursuing a degree in **Data Science at Universitas Negeri Surabaya**.<br><br>- 🎒 Currently navigating my journey as a Data Science student — curious, excited, and sometimes overwhelmed  <br>- 📊 Love exploring data and designing dashboards that highlight important information in a simple and visual way  <br>- 🧠 Get excited about insights, patterns, and those “aha!” moments in datasets  <br>- 🛠️ Not a tool collector, but enjoy trying new things to find what fits the problem  <br>- 🌱 "From messy data to meaningful direction" — that's my kind of magic</p>
+<p align="left">I'm a data enthusiast currently pursuing a degree in Data Science at Universitas Negeri Surabaya.<br><br>- 🎒 Currently navigating my journey as a Data Science student — curious, excited, and sometimes overwhelmed  <br>- 📊 Love exploring data and designing dashboards that highlight important information in a simple and visual way  <br>- 🧠 Get excited about insights, patterns, and those “aha!” moments in datasets  <br>- 🛠️ Not a tool collector, but enjoy trying new things to find what fits the problem  <br>- 🌱 "From messy data to meaningful direction" — that's my kind of magic</p>
 
 ###
 
