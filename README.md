@@ -60,7 +60,7 @@
 | Projects | Description |
 |----------|-------------|
 | [ Bike Sharing Analysis and Interactive Dashboard ](https://github.com/JustNote0/Bike_Sharing.git) |  |
-| [ IMDb Sentiment Analysis Movie Review](https://github.com/username/project-cicd-ml) |  |
+| [ IMDb Sentiment Analysis Movie Review](https://github.com/JustNote0/Sentiment_Analysis.git) |  |
 | [Online Food Ordering System](https://github.com/username/project-skin-cancer) |  |
 
 <h3 align="left">🔥   My Stats :</h3>
