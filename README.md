@@ -59,9 +59,9 @@
 
 | Projects | Description |
 |----------|-------------|
-| [ Bike Sharing Analysis and Interactive Dashboard ](https://github.com/JustNote0/Bike_Sharing.git) |  |
-| [ IMDb Sentiment Analysis Movie Review](https://github.com/JustNote0/Sentiment_Analysis.git) |  |
-| [Online Food Ordering System](https://github.com/username/project-skin-cancer) |  |
+| [ Bike Sharing Analysis and Interactive Dashboard ](https://github.com/JustNote0/Bike_Sharing.git) | Analyzed 18,000+ bike sharing records using Python and built an interactive Streamlit dashboard to explore user behavior, weather impact, and rental trends. |
+| [ IMDb Sentiment Analysis Movie Review](https://github.com/JustNote0/Sentiment_Analysis.git) | Scraped 300+ IMDb reviews using aiohttp and BeautifulSoup, performed sentiment analysis with TextBlob, and built a real-time classification dashboard using Streamlit. |
+| [Online Food Ordering System](https://github.com/JustNote0/PostgreSQL-Project.git) |  Designed a relational database for an online food ordering system using PostgreSQL, including 7 structured tables, SQL queries, views, and an ERD to support reporting and transactions. |
 
 <h3 align="left">🔥   My Stats :</h3>
 
