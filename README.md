@@ -60,8 +60,10 @@
 | Projects | Description |
 |----------|-------------|
 | [ Bike Sharing Analysis and Interactive Dashboard ](https://github.com/JustNote0/Bike_Sharing.git) | Analyzed 18,000+ bike sharing records using Python and built an interactive Streamlit dashboard to explore user behavior, weather impact, and rental trends. |
+| [ Classification of Student Academic Achievement ](https://github.com/JustNote0/R_Student_Academic_Achievement.git) | Analyzed 649 student records across 33 variables to classify academic performance using LDA and ordinal logistic regression. Used R with statistical packages (e.g., MASS, ggplot2, car) for data preprocessing, modeling, and evaluation. Achieved 81% accuracy, with LDA outperforming logistic regression |
 | [ IMDb Sentiment Analysis Movie Review](https://github.com/JustNote0/Sentiment_Analysis.git) | Scraped 300+ IMDb reviews using aiohttp and BeautifulSoup, performed sentiment analysis with TextBlob, and built a real-time classification dashboard using Streamlit. |
 | [Online Food Ordering System](https://github.com/JustNote0/PostgreSQL-Project.git) |  Designed a PostgreSQL database system for an online food ordering platform, combining ERD modeling and structured SQL implementation to support key functionalities such as transactions, queries, and reporting. |
+| [ Steel Industry Energy Load Dashboard ](https://github.com/JustNote0/-Steel-Industry-Energy-Load-Dashboard.git) | Developed an interactive Tableau dashboard to analyze 2018 energy consumption in the steel industry across Light, Medium, and Maximum Load types. Applied visual analytics (bar, line, pie, and bubble charts) to identify usage trends and peak load periods, supporting energy efficiency strategies |
 
 <h3 align="left">🔥   My Stats :</h3>
 
