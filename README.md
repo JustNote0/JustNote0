@@ -55,7 +55,7 @@
 
 ###
 
-## 🛠️ Projects
+### 🛠️ Projects
 
 | Projects | Description |
 |----------|-------------|
